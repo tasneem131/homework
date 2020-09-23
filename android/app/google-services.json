@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626191692118",
+    "firebase_url": "https://blissful-glass-287511.firebaseio.com",
+    "project_id": "blissful-glass-287511",
+    "storage_bucket": "blissful-glass-287511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626191692118:android:2aab4bcd53ccfc4fade6f7",
+        "android_client_info": {
+          "package_name": "com.example.homework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626191692118-00het2gd0qssmk2uusk9bo4v48csg4s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuhxqUs9JTwp1uaqOfpznZLZGif0Q0kY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626191692118-00het2gd0qssmk2uusk9bo4v48csg4s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
